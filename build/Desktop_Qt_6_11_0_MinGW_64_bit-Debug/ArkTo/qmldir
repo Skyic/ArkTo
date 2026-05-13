@@ -1,0 +1,6 @@
+module ArkTo
+typeinfo appArkTo.qmltypes
+prefer :/qt/qml/ArkTo/
+Main 254.0 Main.qml
+depends QtQuick
+

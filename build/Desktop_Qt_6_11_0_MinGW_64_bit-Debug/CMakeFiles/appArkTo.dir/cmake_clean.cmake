@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appArkTo_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_ArkTo.cpp"
+  ".rcc/qmlcache/appArkTo_Main_qml.cpp"
+  ".rcc/qmlcache/appArkTo_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appArkTo_qmlcache_loader.cpp"
+  "ArkTo/appArkTo.qmltypes"
+  "CMakeFiles/appArkTo_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appArkTo_autogen.dir/ParseCache.txt"
+  "appArkTo_autogen"
+  "CMakeFiles/appArkTo.dir/appArkTo_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appArkTo.dir/appArkTo_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appArkTo.dir/apparkto_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appArkTo.dir/apparkto_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appArkTo.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appArkTo_raw_qml_0.cpp.obj"
+  "CMakeFiles/appArkTo.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appArkTo_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appArkTo.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ArkTo.cpp.obj"
+  "CMakeFiles/appArkTo.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_ArkTo.cpp.obj.d"
+  "CMakeFiles/appArkTo.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.rcc/qmlcache/appArkTo_Main_qml.cpp.obj"
+  "CMakeFiles/appArkTo.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.rcc/qmlcache/appArkTo_Main_qml.cpp.obj.d"
+  "CMakeFiles/appArkTo.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.rcc/qmlcache/appArkTo_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appArkTo.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.rcc/qmlcache/appArkTo_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appArkTo.dir/main.cpp.obj"
+  "CMakeFiles/appArkTo.dir/main.cpp.obj.d"
+  "appArkTo.exe"
+  "appArkTo.exe.manifest"
+  "appArkTo.pdb"
+  "appArkTo_autogen/mocs_compilation.cpp"
+  "appArkTo_autogen/timestamp"
+  "apparkto_qmltyperegistrations.cpp"
+  "libappArkTo.dll.a"
+  "meta_types/appArkTo_json_file_list.txt"
+  "meta_types/appArkTo_json_file_list.txt.timestamp"
+  "meta_types/qt6apparkto_metatypes.json"
+  "meta_types/qt6apparkto_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appArkTo.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

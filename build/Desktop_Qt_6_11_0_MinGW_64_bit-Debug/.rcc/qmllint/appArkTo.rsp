@@ -1,0 +1,14 @@
+--bare
+-I
+C:/Users/Administrator/Documents/SkyicData/ArkTo/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-I
+C:/Users/Administrator/Documents/SkyicData/ArkTo/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/ArkTo
+-I
+C:/Users/Administrator/Documents/SkyicData/ArkTo/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.11.0/mingw_64/qml
+--resource
+C:/Users/Administrator/Documents/SkyicData/ArkTo/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qmake_ArkTo.qrc
+--resource
+C:/Users/Administrator/Documents/SkyicData/ArkTo/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/appArkTo_raw_qml_0.qrc
+C:/Users/Administrator/Documents/SkyicData/ArkTo/Main.qml

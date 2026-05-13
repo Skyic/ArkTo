@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/ArkTo">
+    <file alias="qmldir">C:/Users/Administrator/Documents/SkyicData/ArkTo/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/ArkTo/qmldir</file>
+  </qresource>
+</RCC>
+
